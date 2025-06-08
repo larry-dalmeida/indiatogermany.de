@@ -1,0 +1,95 @@
+{
+    "title": "Desi Jugaads",
+    "category": "Food & Groceries",
+    "description": "Curated by the community, here's your go-to list of Indian restaurants and grocery gems in Berlin\u2014complete with what they're best for.",
+    "data": [
+        {
+            "type": "restaurants",
+            "title": "Restaurants",
+            "links": [
+                {
+                    "name": "Navi New Indian",
+                    "url": "https://www.wearenavi.de/",
+                    "best_for": "Upscale Indian comfort food (fine dining)"
+                },
+                {
+                    "name": "Saravanaa Bhavan",
+                    "url": "https://www.saravanaabhavan-berlin.de/",
+                    "best_for": "Authentic South Indian food & filter coffee"
+                },
+                {
+                    "name": "India Club",
+                    "url": "https://indiaclubrestaurant.com/",
+                    "best_for": "Classic tandoori dishes, elegant ambience"
+                },
+                {
+                    "name": "Chutney",
+                    "url": "https://chutneyberlin.de/",
+                    "best_for": "Indian fusion with a twist (try Chicken Madras)"
+                },
+                {
+                    "name": "Zusshu Indian Cuisine",
+                    "url": "https://zusshu.com/",
+                    "best_for": "Haleem & Hyderabadi biryani"
+                },
+                {
+                    "name": "Voson Bilash Kulturcafe & Restaurant",
+                    "url": "https://voson-bilash.business.site/",
+                    "best_for": "Homely Bengali/Bangladeshi food"
+                },
+                {
+                    "name": "Swadishta",
+                    "url": "https://swadishta.de/",
+                    "best_for": "Dabeli chaat & Indian snacks"
+                }
+            ]
+        },
+        {
+            "type": "grocery_stores",
+            "title": "Grocery Stores",
+            "links": [
+                {
+                    "name": "TS Foods (Moabit)",
+                    "url": "https://tsfoods.de/index.php",
+                    "best_for": "Curry leaves, Indian staples, frozen items"
+                },
+                {
+                    "name": "Indian & Sri Lankan Grocery Store",
+                    "url": "https://wolt.com/en/deu/berlin/venue/indian-srilankan-grocery-store?srsltid=AfmBOoprCrfYcBW0GoOM3iRHiXznyOxZ-kNSihm6a6k-rvXz92zb8CiF",
+                    "best_for": "Fresh bhindi, ridge gourd, turia, and more"
+                },
+                {
+                    "name": "Indian Spices in German Stores",
+                    "url": "https://spicecheck24.com/blogs/g/navigating-indian-spices-in-german-supermarkets-what-you-can-find-and-what-you-can-t",
+                    "best_for": "Decoding Desi items in Aldi, Lidl, etc."
+                },
+                {
+                    "name": "Where to find Pav in Berlin",
+                    "url": "https://www.reddit.com/r/IndiansInBerlin/comments/160wyh5/where_can_i_find_pav_in_berlin/",
+                    "best_for": "Homemade or store-bought pav hacks"
+                }
+            ]
+        },
+        {
+            "type": "community_tips",
+            "title": "Community Tips",
+            "links": [
+                {
+                    "name": "Indians in Berlin \u2013 FB Group",
+                    "url": "https://www.facebook.com/groups/2606668189644850",
+                    "best_for": "Food recs, event tips, daily queries"
+                },
+                {
+                    "name": "Easy WG Housing \u2013 FB Group",
+                    "url": "https://www.facebook.com/groups/easy.wg/",
+                    "best_for": "Finding shared flats with Desi flatmates"
+                },
+                {
+                    "name": "Indians in Leipzig & Europe \u2013 FB Group",
+                    "url": "https://www.facebook.com/groups/226825394858771/",
+                    "best_for": "Broader German-wide Desi advice"
+                }
+            ]
+        }
+    ]
+}

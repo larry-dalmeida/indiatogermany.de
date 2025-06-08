@@ -1,6 +1,6 @@
 ---
 const { category } = Astro.props;
-const { title, links } = category;
+const { title, links, type } = category;
 ---
 
 <section class="mb-8">
@@ -16,7 +16,7 @@ const { title, links } = category;
                     >
                         {link.name}
                     </a>
-                    <p class="text-xs text-gray-600">{link.description}</p>
+                    <p class="text-xs text-gray-600">{type ? link.best_for : link.description}</p>
                 </li>
             ))
         }
