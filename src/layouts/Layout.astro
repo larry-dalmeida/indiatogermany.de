@@ -1,18 +1,28 @@
 ---
 import "../styles/global.css";
-import data from '../data/website.json'
-import Nav from '../components/Nav.astro'
+import data from "../data/website.json";
+import Nav from "../components/Nav.astro";
 
 const { websiteTitle = "🇮🇳 India to Germany 🇩🇪" } = Astro.props;
 
 const { title, subtitle } = data;
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
+    <meta
+      name="description"
+      content="Indiatogermany.de is your soulful and practical guide for Indian migrants in Germany. Discover essential tools and joyful desi hacks to thrive abroad."
+    />
+    <meta
+      name="keywords"
+      content="India to Germany, Indian migrants Germany, Indians in Germany, Blue Card, Anmeldung, apartment hunting, Indian grocery Germany, desi community, expat toolkit"
+    />
+    <meta name="author" content="Indiatogermany.de" />
+    <meta name="robots" content="index, follow" />
     <title>{websiteTitle}</title>
   </head>
   <body class="bg-white text-gray-900 font-sans">
@@ -24,12 +34,17 @@ const { title, subtitle } = data;
     </header>
 
     <main class="max-w-3xl mx-auto px-4 py-6">
-        <slot />
+      <slot />
     </main>
 
     <footer class="text-center py-4 border-t text-sm text-gray-500">
-      <p><a class="text-[var(--color-india-blue)] hover:text-[var(--color-india-green)] underline font-medium" target="_blank" href="https://forms.gle/F2cpYACYv1T2qH5b8">Have suggestions?</a></p>
-     <p> &copy; 2025 India to Germany. All rights reserved.</p>
+      <p>
+        <a
+          class="text-[var(--color-india-blue)] hover:text-[var(--color-india-green)] underline font-medium"
+          target="_blank"
+          href="https://forms.gle/F2cpYACYv1T2qH5b8">Have suggestions?</a>
+      </p>
+      <p>&copy; 2025 India to Germany. All rights reserved.</p>
     </footer>
   </body>
 </html>
