@@ -1,0 +1,23 @@
+---
+const links = [
+    { text: "Interesting", href: "/" },
+    { text: "Informative", href: "/informative" },
+];
+---
+
+<nav class="mt-4 text-sm">
+    <ul class="flex gap-6 justify-center">
+        {
+            links.map((link) => (
+                <li>
+                    <a
+                        href={link.href}
+                        class="text-[var(--color-india-blue)] underline underline-offset-4 decoration-1 hover:text-[var(--color-india-green)] transition-colors duration-200"
+                    >
+                        {link.text}
+                    </a>
+                </li>
+            ))
+        }
+    </ul>
+</nav>

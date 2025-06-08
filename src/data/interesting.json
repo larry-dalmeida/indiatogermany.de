@@ -1,0 +1,146 @@
+[
+    {
+        "title": "Common Challenges",
+        "emoji": "🏠",
+        "data": [
+            {
+                "title": "Housing & Bureaucracy",
+                "emoji": "🏠",
+                "description": "From Anmeldung to finding your first WG, we simplify German paperwork and flat hunts.",
+                "links": [
+                    {
+                        "name": "Anmeldung & Tax ID",
+                        "description": "How to register and avoid fines.",
+                        "url": "https://www.welcome-hub-germany.com/anmeldung-registration/"
+                    },
+                    {
+                        "name": "Housing search & discrimination tips",
+                        "description": "Finding flats and dealing with rejections.",
+                        "url": "https://www.expatrio.com/living-germany/accommodation"
+                    },
+                    {
+                        "name": "Visa, Blue Card & PR process",
+                        "description": "From student to PR in clear steps.",
+                        "url": "https://www.se-legal.de/en/"
+                    }
+                ]
+            },
+            {
+                "title": "Health & Essentials",
+                "emoji": "🏥",
+                "description": "Find Desi-friendly doctors, basic insurance info, and Ayurvedic options.",
+                "links": [
+                    {
+                        "name": "Indian or English-speaking doctors",
+                        "description": "Curated local list.",
+                        "url": "https://www.jameda.de"
+                    },
+                    {
+                        "name": "Health insurance explained",
+                        "description": "A brief on public vs private.",
+                        "url": "https://www.allaboutberlin.com/guides/health-insurance"
+                    },
+                    {
+                        "name": "Ayurveda & home remedies",
+                        "description": "Where to find Indian medicine in Berlin.",
+                        "url": "https://spicejunction.de"
+                    }
+                ]
+            },
+            {
+                "title": "Jobs, Studies & Skill Building",
+                "emoji": "💼",
+                "description": "For job seekers, students, and upskillers.",
+                "links": [
+                    {
+                        "name": "Job search platforms",
+                        "description": "From StepStone to urledIn.",
+                        "url": "https://www.stepstone.de"
+                    },
+                    {
+                        "name": "Degree recognition (Anabin/ZAB)",
+                        "description": "For regulated professions.",
+                        "url": "https://anabin.kmk.org/"
+                    },
+                    {
+                        "name": "German language schools",
+                        "description": "Shortlist of practical courses for busy people.",
+                        "url": "https://www.goethe.de"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Interesting Themes",
+        "emoji": "🏠",
+        "data": [
+            {
+                "title": "Housing & Bureaucracy",
+                "emoji": "🏠",
+                "description": "From Anmeldung to finding your first WG, we simplify German paperwork and flat hunts.",
+                "links": [
+                    {
+                        "name": "Anmeldung & Tax ID",
+                        "description": "How to register and avoid fines.",
+                        "url": "https://www.welcome-hub-germany.com/anmeldung-registration/"
+                    },
+                    {
+                        "name": "Housing search & discrimination tips",
+                        "description": "Finding flats and dealing with rejections.",
+                        "url": "https://www.expatrio.com/living-germany/accommodation"
+                    },
+                    {
+                        "name": "Visa, Blue Card & PR process",
+                        "description": "From student to PR in clear steps.",
+                        "url": "https://www.se-legal.de/en/"
+                    }
+                ]
+            },
+            {
+                "title": "Health & Essentials",
+                "emoji": "🏥",
+                "description": "Find Desi-friendly doctors, basic insurance info, and Ayurvedic options.",
+                "links": [
+                    {
+                        "name": "Indian or English-speaking doctors",
+                        "description": "Curated local list.",
+                        "url": "https://www.jameda.de"
+                    },
+                    {
+                        "name": "Health insurance explained",
+                        "description": "A brief on public vs private.",
+                        "url": "https://www.allaboutberlin.com/guides/health-insurance"
+                    },
+                    {
+                        "name": "Ayurveda & home remedies",
+                        "description": "Where to find Indian medicine in Berlin.",
+                        "url": "https://spicejunction.de"
+                    }
+                ]
+            },
+            {
+                "title": "Jobs, Studies & Skill Building",
+                "emoji": "💼",
+                "description": "For job seekers, students, and upskillers.",
+                "links": [
+                    {
+                        "name": "Job search platforms",
+                        "description": "From StepStone to urledIn.",
+                        "url": "https://www.stepstone.de"
+                    },
+                    {
+                        "name": "Degree recognition (Anabin/ZAB)",
+                        "description": "For regulated professions.",
+                        "url": "https://anabin.kmk.org/"
+                    },
+                    {
+                        "name": "German language schools",
+                        "description": "Shortlist of practical courses for busy people.",
+                        "url": "https://www.goethe.de"
+                    }
+                ]
+            }
+        ]
+    }
+]

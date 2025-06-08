@@ -1,8 +1,8 @@
 [
     {
-        "theme": "Housing & Registration",
+        "title": "Housing & Registration",
         "emoji": "🏠",
-        "blocks": [
+        "data": [
             {
                 "title": "Finding an Apartment",
                 "links": [
@@ -146,9 +146,9 @@
         ]
     },
     {
-        "theme": "Healthcare",
+        "title": "Healthcare",
         "emoji": "🏥",
-        "blocks": [
+        "data": [
             {
                 "title": "Health Insurance",
                 "links": [
@@ -292,9 +292,9 @@
         ]
     },
     {
-        "theme": "Finance & Banking",
+        "title": "Finance & Banking",
         "emoji": "💰",
-        "blocks": [
+        "data": [
             {
                 "title": "Opening a Bank Account",
                 "links": [
@@ -438,9 +438,9 @@
         ]
     },
     {
-        "theme": "Work & Taxes",
+        "title": "Work & Taxes",
         "emoji": "💼",
-        "blocks": [
+        "data": [
             {
                 "title": "Finding a Job",
                 "links": [
@@ -584,9 +584,9 @@
         ]
     },
     {
-        "theme": "Education & Childcare",
+        "title": "Education & Childcare",
         "emoji": "🎓",
-        "blocks": [
+        "data": [
             {
                 "title": "Schools & Education System",
                 "links": [
@@ -730,9 +730,9 @@
         ]
     },
     {
-        "theme": "Transport & Mobility",
+        "title": "Transport & Mobility",
         "emoji": "🚇",
-        "blocks": [
+        "data": [
             {
                 "title": "Public Transport",
                 "links": [

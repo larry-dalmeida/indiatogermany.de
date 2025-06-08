@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+@theme {
+    --color-india-green: #046A38;
+    --color-india-orange: #ff9933;
+    --color-india-blue: #000089;
+}
