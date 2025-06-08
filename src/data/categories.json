@@ -1,0 +1,878 @@
+[
+    {
+        "theme": "Housing & Registration",
+        "emoji": "🏠",
+        "blocks": [
+            {
+                "title": "Finding an Apartment",
+                "links": [
+                    {
+                        "name": "WG-Gesucht",
+                        "url": "https://www.wg-gesucht.de",
+                        "description": "Shared flats and apartments."
+                    },
+                    {
+                        "name": "Immobilienscout24",
+                        "url": "https://www.immobilienscout24.de",
+                        "description": "Largest housing portal."
+                    },
+                    {
+                        "name": "Immonet",
+                        "url": "https://www.immonet.de",
+                        "description": "Alternative rental listings."
+                    },
+                    {
+                        "name": "Ebay Kleinanzeigen",
+                        "url": "https://www.kleinanzeigen.de",
+                        "description": "Classified ads for rooms."
+                    },
+                    {
+                        "name": "HousingAnywhere",
+                        "url": "https://housinganywhere.com",
+                        "description": "Short-term rentals for expats."
+                    },
+                    {
+                        "name": "Spotahome",
+                        "url": "https://www.spotahome.com",
+                        "description": "Verified mid-term rentals."
+                    }
+                ]
+            },
+            {
+                "title": "Address Registration",
+                "links": [
+                    {
+                        "name": "Berlin Anmeldung Guide",
+                        "url": "https://allaboutberlin.com/guides/anmeldung",
+                        "description": "Step-by-step guide."
+                    },
+                    {
+                        "name": "Service Berlin",
+                        "url": "https://service.berlin.de",
+                        "description": "Book an appointment."
+                    },
+                    {
+                        "name": "City Registration Offices",
+                        "url": "https://service.berlin.de/standorte/buergeraemter",
+                        "description": "Find your Bürgeramt."
+                    },
+                    {
+                        "name": "Checklist for Anmeldung",
+                        "url": "https://www.settle-in-berlin.com/anmeldung",
+                        "description": "Documents required."
+                    },
+                    {
+                        "name": "Wohnungsgeberbestätigung",
+                        "url": "https://service.berlin.de/dienstleistung/318998",
+                        "description": "Landlord confirmation form."
+                    },
+                    {
+                        "name": "Moving Tips",
+                        "url": "https://www.move24.com",
+                        "description": "Find moving services."
+                    }
+                ]
+            },
+            {
+                "title": "TV Tax & Utilities",
+                "links": [
+                    {
+                        "name": "Rundfunkbeitrag",
+                        "url": "https://www.rundfunkbeitrag.de",
+                        "description": "TV license fee info."
+                    },
+                    {
+                        "name": "Gas & Electricity Providers",
+                        "url": "https://www.check24.de",
+                        "description": "Compare providers."
+                    },
+                    {
+                        "name": "Wasserbetriebe Berlin",
+                        "url": "https://www.bwb.de",
+                        "description": "Water services."
+                    },
+                    {
+                        "name": "Local Waste Services",
+                        "url": "https://www.bsr.de",
+                        "description": "Recycling & trash."
+                    },
+                    {
+                        "name": "Energy Tips",
+                        "url": "https://www.verbraucherzentrale.de",
+                        "description": "Saving energy in Germany."
+                    },
+                    {
+                        "name": "Moving Utility Checklist",
+                        "url": "https://www.moving24.com/utilities",
+                        "description": "What to cancel/setup."
+                    }
+                ]
+            },
+            {
+                "title": "Emergency Numbers & Safety",
+                "links": [
+                    {
+                        "name": "112 - Fire/Ambulance",
+                        "url": "#",
+                        "description": "Emergency services."
+                    },
+                    {
+                        "name": "110 - Police",
+                        "url": "#",
+                        "description": "Emergency number for police."
+                    },
+                    {
+                        "name": "Berlin Police",
+                        "url": "https://www.berlin.de/polizei",
+                        "description": "Info and contacts."
+                    },
+                    {
+                        "name": "Poison Emergency",
+                        "url": "https://www.bzga.de",
+                        "description": "Tox emergencies."
+                    },
+                    {
+                        "name": "Lost & Found",
+                        "url": "https://www.fundbuero.berlin.de",
+                        "description": "City lost items office."
+                    },
+                    {
+                        "name": "Disaster Alerts",
+                        "url": "https://www.warnung.bund.de",
+                        "description": "Official warning app."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "theme": "Healthcare",
+        "emoji": "🏥",
+        "blocks": [
+            {
+                "title": "Health Insurance",
+                "links": [
+                    {
+                        "name": "TK",
+                        "url": "https://www.tk.de",
+                        "description": "Public insurer."
+                    },
+                    {
+                        "name": "Barmer",
+                        "url": "https://www.barmer.de",
+                        "description": "Public health insurance."
+                    },
+                    {
+                        "name": "AOK",
+                        "url": "https://www.aok.de",
+                        "description": "One of the oldest insurers."
+                    },
+                    {
+                        "name": "Private vs Public",
+                        "url": "https://www.settle-in-berlin.com/health-insurance",
+                        "description": "Comparison guide."
+                    },
+                    {
+                        "name": "Dr. Walter",
+                        "url": "https://www.dr-walter.com",
+                        "description": "Private expat insurance."
+                    },
+                    {
+                        "name": "Feather Insurance",
+                        "url": "https://www.feather-insurance.com",
+                        "description": "Online health coverage."
+                    }
+                ]
+            },
+            {
+                "title": "Finding Doctors",
+                "links": [
+                    {
+                        "name": "Doctolib",
+                        "url": "https://www.doctolib.de",
+                        "description": "Book appointments online."
+                    },
+                    {
+                        "name": "KV Berlin",
+                        "url": "https://www.kvberlin.de",
+                        "description": "Find general practitioners."
+                    },
+                    {
+                        "name": "Internationals Friendly Doctors",
+                        "url": "https://allaboutberlin.com/guides/english-speaking-doctors",
+                        "description": "English-speaking doctors."
+                    },
+                    {
+                        "name": "Dental Care",
+                        "url": "https://www.zahnarzt-berlin.de",
+                        "description": "Find dentists."
+                    },
+                    {
+                        "name": "Emergency Care",
+                        "url": "https://www.berlin.de/notfall",
+                        "description": "Emergency clinics in Berlin."
+                    },
+                    {
+                        "name": "Psychological Help",
+                        "url": "https://www.berliner-krisendienst.de",
+                        "description": "Mental health crisis service."
+                    }
+                ]
+            },
+            {
+                "title": "Pharmacies & Prescriptions",
+                "links": [
+                    {
+                        "name": "Apotheken Umschau",
+                        "url": "https://www.apotheken-umschau.de",
+                        "description": "Health news and pharmacy search."
+                    },
+                    {
+                        "name": "Local Pharmacy Locator",
+                        "url": "https://www.aponet.de",
+                        "description": "Find open pharmacies."
+                    },
+                    {
+                        "name": "DocMorris",
+                        "url": "https://www.docmorris.de",
+                        "description": "Online pharmacy."
+                    },
+                    {
+                        "name": "EU Prescriptions",
+                        "url": "https://www.gesundheitsinformation.de",
+                        "description": "Using foreign prescriptions."
+                    },
+                    {
+                        "name": "Emergency Medicine",
+                        "url": "https://www.notdienstportal.de",
+                        "description": "Night & weekend pharmacy list."
+                    },
+                    {
+                        "name": "Reimbursement Info",
+                        "url": "https://www.gkv-spitzenverband.de",
+                        "description": "How to claim costs."
+                    }
+                ]
+            },
+            {
+                "title": "Vaccinations & Health Checks",
+                "links": [
+                    {
+                        "name": "STIKO Recommendations",
+                        "url": "https://www.rki.de",
+                        "description": "Official vaccination schedule."
+                    },
+                    {
+                        "name": "Impfpass Info",
+                        "url": "https://www.bundesgesundheitsministerium.de",
+                        "description": "Vaccination card explanation."
+                    },
+                    {
+                        "name": "Yellow Fever Clinics",
+                        "url": "https://www.gesundheitsamt.de",
+                        "description": "Approved travel vaccine centers."
+                    },
+                    {
+                        "name": "COVID Info Berlin",
+                        "url": "https://www.berlin.de/corona",
+                        "description": "Up-to-date local guidance."
+                    },
+                    {
+                        "name": "Health Checkups",
+                        "url": "https://www.gesundheitsuntersuchung.de",
+                        "description": "What’s free & when."
+                    },
+                    {
+                        "name": "Children’s Health",
+                        "url": "https://www.kindergesundheit-info.de",
+                        "description": "Pediatric care."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "theme": "Finance & Banking",
+        "emoji": "💰",
+        "blocks": [
+            {
+                "title": "Opening a Bank Account",
+                "links": [
+                    {
+                        "name": "N26",
+                        "url": "https://n26.com",
+                        "description": "Online German bank popular with expats."
+                    },
+                    {
+                        "name": "Deutsche Bank",
+                        "url": "https://www.deutsche-bank.de",
+                        "description": "Major traditional bank with English support."
+                    },
+                    {
+                        "name": "Commerzbank",
+                        "url": "https://www.commerzbank.de",
+                        "description": "One of Germany’s largest banks."
+                    },
+                    {
+                        "name": "DKB",
+                        "url": "https://www.dkb.de",
+                        "description": "Online-only bank with low fees."
+                    },
+                    {
+                        "name": "Opening Guide",
+                        "url": "https://allaboutberlin.com/guides/bank-account",
+                        "description": "Step-by-step account setup."
+                    },
+                    {
+                        "name": "Bunq",
+                        "url": "https://www.bunq.com",
+                        "description": "Digital bank with multilingual support."
+                    }
+                ]
+            },
+            {
+                "title": "Sending Money Abroad",
+                "links": [
+                    {
+                        "name": "Wise",
+                        "url": "https://wise.com",
+                        "description": "Affordable international transfers."
+                    },
+                    {
+                        "name": "Remitly",
+                        "url": "https://www.remitly.com",
+                        "description": "Send money to India quickly."
+                    },
+                    {
+                        "name": "Western Union",
+                        "url": "https://www.westernunion.com",
+                        "description": "Cash pickup and transfers."
+                    },
+                    {
+                        "name": "XE Money Transfer",
+                        "url": "https://www.xe.com",
+                        "description": "Currency exchange and transfers."
+                    },
+                    {
+                        "name": "ICICI Money2World",
+                        "url": "https://www.money2world.com",
+                        "description": "Transfer from German bank to India."
+                    },
+                    {
+                        "name": "Transfer Comparison",
+                        "url": "https://www.compareremit.com",
+                        "description": "Compare remittance services."
+                    }
+                ]
+            },
+            {
+                "title": "Taxes in Germany",
+                "links": [
+                    {
+                        "name": "ELSTER",
+                        "url": "https://www.elster.de",
+                        "description": "Official tax filing portal."
+                    },
+                    {
+                        "name": "Tax Classes",
+                        "url": "https://allaboutberlin.com/guides/tax-classes",
+                        "description": "Guide to Steuerklassen."
+                    },
+                    {
+                        "name": "Lohnsteuerhilfe",
+                        "url": "https://www.vlh.de",
+                        "description": "Affordable tax advisory service."
+                    },
+                    {
+                        "name": "Finanzamt Berlin",
+                        "url": "https://www.berlin.de/sen/finanzen/steuern/finanzaemter",
+                        "description": "Local tax offices."
+                    },
+                    {
+                        "name": "SteuerGo",
+                        "url": "https://www.steuergo.de",
+                        "description": "File taxes in English online."
+                    },
+                    {
+                        "name": "Steuererklärung Help",
+                        "url": "https://www.smartsteuer.de",
+                        "description": "Tax return made easy."
+                    }
+                ]
+            },
+            {
+                "title": "Credit & Finance",
+                "links": [
+                    {
+                        "name": "SCHUFA",
+                        "url": "https://www.meineschufa.de",
+                        "description": "Check your credit report."
+                    },
+                    {
+                        "name": "Credit Score Guide",
+                        "url": "https://allaboutberlin.com/guides/schufa",
+                        "description": "SCHUFA explained for newcomers."
+                    },
+                    {
+                        "name": "Loan Comparison",
+                        "url": "https://www.check24.de/kredit",
+                        "description": "Compare personal loans."
+                    },
+                    {
+                        "name": "Credit Cards",
+                        "url": "https://www.kreditkarte.net",
+                        "description": "Find the best German credit cards."
+                    },
+                    {
+                        "name": "Debt Help",
+                        "url": "https://www.schuldnerberatung.de",
+                        "description": "Official debt counselling."
+                    },
+                    {
+                        "name": "Finance Tips",
+                        "url": "https://www.verbraucherzentrale.de",
+                        "description": "Financial literacy resources."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "theme": "Work & Taxes",
+        "emoji": "💼",
+        "blocks": [
+            {
+                "title": "Finding a Job",
+                "links": [
+                    {
+                        "name": "LinkedIn",
+                        "url": "https://www.linkedin.com/jobs",
+                        "description": "Professional jobs in Germany."
+                    },
+                    {
+                        "name": "Indeed",
+                        "url": "https://de.indeed.com",
+                        "description": "Popular job search engine."
+                    },
+                    {
+                        "name": "Glassdoor",
+                        "url": "https://www.glassdoor.com",
+                        "description": "Job listings and reviews."
+                    },
+                    {
+                        "name": "Arbeitsagentur",
+                        "url": "https://www.arbeitsagentur.de",
+                        "description": "German job center."
+                    },
+                    {
+                        "name": "Startup Jobs",
+                        "url": "https://berlinstartupjobs.com",
+                        "description": "Jobs in Berlin startups."
+                    },
+                    {
+                        "name": "Make it in Germany",
+                        "url": "https://www.make-it-in-germany.com",
+                        "description": "Official portal for expats."
+                    }
+                ]
+            },
+            {
+                "title": "Freelancing & Self-Employment",
+                "links": [
+                    {
+                        "name": "Freelance Visa Guide",
+                        "url": "https://allaboutberlin.com/guides/freelance-visa",
+                        "description": "How to apply for a freelance visa."
+                    },
+                    {
+                        "name": "Tax Info for Freelancers",
+                        "url": "https://www.fuer-gruender.de",
+                        "description": "Freelance tax tips."
+                    },
+                    {
+                        "name": "Invoicing Tools",
+                        "url": "https://www.zoho.com/invoice",
+                        "description": "Tools for managing invoices."
+                    },
+                    {
+                        "name": "German Trade Office",
+                        "url": "https://www.gewerbeanmeldung.de",
+                        "description": "Register your business."
+                    },
+                    {
+                        "name": "Freelance Insurance",
+                        "url": "https://www.freelancersunion.org",
+                        "description": "Coverage options."
+                    },
+                    {
+                        "name": "Kleinunternehmerregelung",
+                        "url": "https://www.existenzgruender.de",
+                        "description": "Small business VAT exemption."
+                    }
+                ]
+            },
+            {
+                "title": "Social Security & Benefits",
+                "links": [
+                    {
+                        "name": "Pension System",
+                        "url": "https://www.deutsche-rentenversicherung.de",
+                        "description": "How pensions work."
+                    },
+                    {
+                        "name": "Unemployment Benefits",
+                        "url": "https://www.arbeitsagentur.de",
+                        "description": "How to apply for ALG I/II."
+                    },
+                    {
+                        "name": "Child Benefits (Kindergeld)",
+                        "url": "https://www.arbeitsagentur.de/familie-und-kinder",
+                        "description": "Info on Kindergeld."
+                    },
+                    {
+                        "name": "Parental Leave",
+                        "url": "https://www.elterngeld-plus.de",
+                        "description": "Elterngeld details."
+                    },
+                    {
+                        "name": "Maternity Benefits",
+                        "url": "https://www.bmfsfj.de",
+                        "description": "Support during maternity."
+                    },
+                    {
+                        "name": "Social Security Number",
+                        "url": "https://www.deutsche-rentenversicherung.de",
+                        "description": "How to get it."
+                    }
+                ]
+            },
+            {
+                "title": "Tax Filing",
+                "links": [
+                    {
+                        "name": "ELSTER",
+                        "url": "https://www.elster.de",
+                        "description": "Submit your tax returns."
+                    },
+                    {
+                        "name": "Tax Advisors",
+                        "url": "https://www.steuerberater.de",
+                        "description": "Find certified Steuerberaters."
+                    },
+                    {
+                        "name": "Tax Return Checklist",
+                        "url": "https://www.smartsteuer.de",
+                        "description": "What you need to submit."
+                    },
+                    {
+                        "name": "Filing Deadlines",
+                        "url": "https://www.steuererklaerung.de",
+                        "description": "Know your tax dates."
+                    },
+                    {
+                        "name": "Freelancer Taxes",
+                        "url": "https://allaboutberlin.com/guides/freelancer-taxes",
+                        "description": "What’s required for freelancers."
+                    },
+                    {
+                        "name": "Foreign Income",
+                        "url": "https://www.elster.de",
+                        "description": "Reporting global income."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "theme": "Education & Childcare",
+        "emoji": "🎓",
+        "blocks": [
+            {
+                "title": "Schools & Education System",
+                "links": [
+                    {
+                        "name": "Berlin School Overview",
+                        "url": "https://www.berlin.de/sen/bildung",
+                        "description": "Official school system info."
+                    },
+                    {
+                        "name": "Choosing a School",
+                        "url": "https://allaboutberlin.com/guides/schools-in-berlin",
+                        "description": "What parents need to know."
+                    },
+                    {
+                        "name": "International Schools",
+                        "url": "https://www.isbberlin.de",
+                        "description": "Popular option for expat families."
+                    },
+                    {
+                        "name": "Enrollment Process",
+                        "url": "https://service.berlin.de",
+                        "description": "School registration."
+                    },
+                    {
+                        "name": "School Supplies List",
+                        "url": "https://www.schulbedarf-berlin.de",
+                        "description": "Buy school items."
+                    },
+                    {
+                        "name": "Language Support",
+                        "url": "https://www.berlin.de/willkommenszentren",
+                        "description": "Help for non-German speakers."
+                    }
+                ]
+            },
+            {
+                "title": "Kindergarten & Daycare",
+                "links": [
+                    {
+                        "name": "Kita Info Portal",
+                        "url": "https://www.kita-navigator.berlin.de",
+                        "description": "Search and apply for daycares."
+                    },
+                    {
+                        "name": "Kita-Gutschein",
+                        "url": "https://www.berlin.de/kita-gutschein",
+                        "description": "How to apply for the voucher."
+                    },
+                    {
+                        "name": "Daycare Options",
+                        "url": "https://www.kita.de",
+                        "description": "Different types of childcare."
+                    },
+                    {
+                        "name": "Bilingual Kindergartens",
+                        "url": "https://www.familienportal.de",
+                        "description": "Language support."
+                    },
+                    {
+                        "name": "Parents’ Fees",
+                        "url": "https://www.berlin.de",
+                        "description": "What you might pay."
+                    },
+                    {
+                        "name": "Childcare Support",
+                        "url": "https://www.bmfsfj.de",
+                        "description": "Federal support options."
+                    }
+                ]
+            },
+            {
+                "title": "Higher Education",
+                "links": [
+                    {
+                        "name": "Studying in Germany",
+                        "url": "https://www.study-in-germany.de",
+                        "description": "Official portal for students."
+                    },
+                    {
+                        "name": "Uni Assist",
+                        "url": "https://www.uni-assist.de",
+                        "description": "Application portal for foreign degrees."
+                    },
+                    {
+                        "name": "DAAD Scholarships",
+                        "url": "https://www.daad.de",
+                        "description": "Scholarships and grants."
+                    },
+                    {
+                        "name": "Public Universities",
+                        "url": "https://www.hochschulkompass.de",
+                        "description": "List of German universities."
+                    },
+                    {
+                        "name": "Student Visa",
+                        "url": "https://www.make-it-in-germany.com",
+                        "description": "Requirements and process."
+                    },
+                    {
+                        "name": "Student Accommodation",
+                        "url": "https://www.studentenwerke.de",
+                        "description": "Find dorms and support."
+                    }
+                ]
+            },
+            {
+                "title": "Language Courses",
+                "links": [
+                    {
+                        "name": "Volkshochschule (VHS)",
+                        "url": "https://www.vhs-berlin.de",
+                        "description": "Affordable local language courses."
+                    },
+                    {
+                        "name": "Goethe Institute",
+                        "url": "https://www.goethe.de",
+                        "description": "Official language & culture classes."
+                    },
+                    {
+                        "name": "Tandem Berlin",
+                        "url": "https://www.tandem-berlin.de",
+                        "description": "Intensive classes for all levels."
+                    },
+                    {
+                        "name": "Lingoda",
+                        "url": "https://www.lingoda.com",
+                        "description": "Online language classes."
+                    },
+                    {
+                        "name": "DeutschAkademie",
+                        "url": "https://www.deutschakademie.de",
+                        "description": "Centrally located German school."
+                    },
+                    {
+                        "name": "Language Tandem",
+                        "url": "https://www.tandem.net",
+                        "description": "Practice speaking for free."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "theme": "Transport & Mobility",
+        "emoji": "🚇",
+        "blocks": [
+            {
+                "title": "Public Transport",
+                "links": [
+                    {
+                        "name": "BVG",
+                        "url": "https://www.bvg.de",
+                        "description": "Berlin’s transport company."
+                    },
+                    {
+                        "name": "VBB",
+                        "url": "https://www.vbb.de",
+                        "description": "Regional ticket system."
+                    },
+                    {
+                        "name": "Monthly Tickets",
+                        "url": "https://www.bvg.de",
+                        "description": "AB, BC, ABC explained."
+                    },
+                    {
+                        "name": "Deutschlandticket",
+                        "url": "https://www.deutschlandticket.de",
+                        "description": "€49 unlimited travel ticket."
+                    },
+                    {
+                        "name": "Late Night Transport",
+                        "url": "https://www.bvg.de",
+                        "description": "Weekend and night options."
+                    },
+                    {
+                        "name": "App for Tickets",
+                        "url": "https://www.bvg.de",
+                        "description": "Buy tickets on your phone."
+                    }
+                ]
+            },
+            {
+                "title": "Cycling in Berlin",
+                "links": [
+                    {
+                        "name": "Bike Maps",
+                        "url": "https://www.berlin.de/radverkehr",
+                        "description": "Official bike routes."
+                    },
+                    {
+                        "name": "Bike Rules",
+                        "url": "https://www.adfc.de",
+                        "description": "Learn German cycling rules."
+                    },
+                    {
+                        "name": "Bike Sharing",
+                        "url": "https://www.limebike.com",
+                        "description": "Rent e-bikes in the city."
+                    },
+                    {
+                        "name": "Locking Your Bike",
+                        "url": "https://www.polizei-beratung.de",
+                        "description": "Prevent theft."
+                    },
+                    {
+                        "name": "Used Bikes",
+                        "url": "https://www.kleinanzeigen.de",
+                        "description": "Find a cheap used bike."
+                    },
+                    {
+                        "name": "Cycling Events",
+                        "url": "https://www.velokonzept.de",
+                        "description": "Bike culture in Berlin."
+                    }
+                ]
+            },
+            {
+                "title": "Driving & Licenses",
+                "links": [
+                    {
+                        "name": "Convert Indian License",
+                        "url": "https://www.berlin.de",
+                        "description": "Recognition process."
+                    },
+                    {
+                        "name": "Driving Schools",
+                        "url": "https://www.fahrschule-berlin.de",
+                        "description": "Find a driving school."
+                    },
+                    {
+                        "name": "Car Registration",
+                        "url": "https://www.kfz-zulassungsstelle.de",
+                        "description": "Register your car."
+                    },
+                    {
+                        "name": "TÜV",
+                        "url": "https://www.tuv.com",
+                        "description": "Vehicle inspection info."
+                    },
+                    {
+                        "name": "ADAC",
+                        "url": "https://www.adac.de",
+                        "description": "German drivers' association."
+                    },
+                    {
+                        "name": "Emissions Badge",
+                        "url": "https://www.umwelt-plakette.de",
+                        "description": "Buy Umweltplakette."
+                    }
+                ]
+            },
+            {
+                "title": "Intercity & International Travel",
+                "links": [
+                    {
+                        "name": "Deutsche Bahn",
+                        "url": "https://www.bahn.de",
+                        "description": "National train travel."
+                    },
+                    {
+                        "name": "FlixBus",
+                        "url": "https://www.flixbus.de",
+                        "description": "Affordable intercity buses."
+                    },
+                    {
+                        "name": "Berlin Airports",
+                        "url": "https://www.berlin-airport.de",
+                        "description": "Flights & airport info."
+                    },
+                    {
+                        "name": "Train Deals",
+                        "url": "https://www.bahn.de/sparpreise",
+                        "description": "Find discounted tickets."
+                    },
+                    {
+                        "name": "International Travel Rules",
+                        "url": "https://www.auswaertiges-amt.de",
+                        "description": "Travel advisory site."
+                    },
+                    {
+                        "name": "Night Trains",
+                        "url": "https://www.nightjet.com",
+                        "description": "Overnight train routes."
+                    }
+                ]
+            }
+        ]
+    }
+]

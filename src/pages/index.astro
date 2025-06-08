@@ -1,31 +1,23 @@
 ---
+import Layout from "../layouts/Layout.astro";
+import Category from "../components/Category.astro";
+import categories from "../data/categories.json";
 
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-		<!-- Google tag (gtag.js) -->
-		<script
-			async
-			src="https://www.googletagmanager.com/gtag/js?id=G-FWVV7BQE0M"
-		></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag() {
-				dataLayer.push(arguments);
-			}
-			gtag("js", new Date());
-
-			gtag("config", "G-FWVV7BQE0M");
-		</script>
-	</head>
-	<body>
-		<h1>India To Germany</h1>
-		<p>Cool links here :)</p>
-	</body>
-</html>
+<Layout>
+	<div>
+		{
+			categories.map((category) => (
+				<section class="mb-12">
+					<h2 class="text-2xl font-bold text-gray-800 mb-4">
+						{category.emoji} {category.theme}
+					</h2>
+					{category.blocks.map((block) => (
+						<Category title={block.title} links={block.links} />
+					))}
+				</section>
+			))
+		}
+	</div>
+</Layout>
