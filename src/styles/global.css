@@ -1,7 +1,25 @@
 @import "tailwindcss";
 
 @theme {
+    --font-heading:
+        "Karma", serif;
+    --font-body: "Hind", sans-serif;
     --color-india-green: #046A38;
     --color-india-orange: #ff9933;
     --color-india-blue: #000089;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--font-heading);
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    font-family: var(--font-body);
 }
